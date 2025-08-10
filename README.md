@@ -19,7 +19,7 @@
 
 2. Data -
 
-   Sourced the socioeconomic data from *[World Data Bank](https://databank.worldbank.org/)*, energy related data from *[International Energy Agency](https://www.iea.org/)* and *[Our World in Data](https://ourworldindata.org/)*. The data was cleaned, modified, transformed in R using *dplyr and tidyr*.
+   Sourced the socioeconomic data from *[World Data Bank](https://databank.worldbank.org/)*, energy related data from *[International Energy Agency](https://www.iea.org/)* and *[Our World in Data](https://ourworldindata.org/)*. The data was cleaned, modified, transformed in R using *dplyr and tidyr*. The final data consisted of 60 countries in the form of a panel from 2000 to 2020.
 
 3. Methodology -
 
@@ -29,26 +29,17 @@
    
      The results were answered both in terms of Carbon Dioxide emissions and Green Energy Development, in summary, the findings indicate that Feed-in Tariffs, Tradable Green Certificates (TGC), and Tax Rebates help in increasing the share of renewable energy, whereas Subsidies and Auction-based Tenders exert a negative significant effect. Additionally, Subsidies, Auction-based Tenders, and TGC are effective in reducing GHG emissions, whereas other policies do not show significant effects.
 
-   
-   
+- Tech Stack: Python, R, Latex
+- Skills Learned: Research, Documentation, Panel Data Analysis, Policy Evaluation
+- [Project Link](https://drive.google.com/file/d/1fltZsmNXezoYii_hX90BM2VPkl_mtb8J/view)
 
-<p> Researched 5 different types of Green Energy Policies - Feed-in Tarrifs, Tenders, Tradable Green Certificates, Subsidies, Tax Rebates and their implication on boosting Green Energy Development particularly Solar, Wind and Hydro Energy. 
+### Yahoo Finance Data Ingestion Pipeline with AI-Powered Query Interface
 
+- Engineered a modular ETL pipeline in Python leveraging yfinance for market data extraction, pandas for data transformation, and SQLAlchemy for ORM-based integration with PostgreSQL, ensuring scalable and maintainable ingestion of stock prices, income statements, balance sheets, and cash flow reports.
+- Designed and implemented a normalized relational database schema with indexed tables to optimize query performance, enforce data integrity, and support analytical workloads on large-scale financial datasets.
+- Developed an AI-assisted financial data exploration tool using Streamlit, integrated with LangChain and OpenAI API, enabling natural-language-to-SQL translation for dynamic querying and real-time visualization of database results.
+- [Project Link](https://github.com/smaach/yahoo-finance-data-ingestion)
 
-
-</p>
-- Tech Stack: Python, SQL, Azure Cloud Services, API Integration, CRON, Azure DevOps, GitHub Actions
-- [Project Link](https://vitalvoices.live) 
-
-### Object Detection on Kubernetes Platform (Completed)
-- 🖼️ Developed a scalable platform for object detection using ML algorithms
-- 🐳 Deployed on Kubernetes cluster with Oracle Cloud
-- 🛠️ Tech Stack: Kubernetes, Docker, Oracle Cloud, React, Python, Machine Learning, Locust
-
-### Traffic Congestion Analysis (Completed)
-- 🚗 Analyzed traffic patterns and congestion hotspots in Melbourne
-- 📊 Created real-time and historical dashboards using Tableau
-- 🛠️ Tech Stack: Python (Pandas, NumPy), SQL, Tableau, Azure Cloud Storage, Geospatial Analysis
 
 ## 🛠 Skills
 
