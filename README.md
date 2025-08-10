@@ -64,8 +64,8 @@
 
 ## 📚 Education
 
-**Monash University**
-- Master of Data Science (July 2022 – Oct 2024)
+**University of New South Wales**
+- Masters of Data Science and Decisions (Feb 2022 – Jan 2025)
 - Key Courses: Statistical Data Modelling, Python Programming, Data Visualisation, Data Wrangling, Big Data Processing, Cloud Computing
 
 ## 📫 Connect with Me
